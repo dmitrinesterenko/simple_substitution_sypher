@@ -1,4 +1,12 @@
-simple_substitution_sypher
-==========================
+Simple Substitution Sypher
+--------------------------
 
-A simple substitution syphe. What can we optimize?
+A simple substitution cypher. What can we optimize?
+
+Based on Joshua T. Liebermann's simple cypher example. 
+
+To do
+-----
+* A C extension or 
+* Better yet an (Elixir)[http://elixir-lang.org/] pass through for the cypher substitution.
+
